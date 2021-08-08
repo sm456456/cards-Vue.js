@@ -8,8 +8,7 @@ let vm = Vue.createApp({
         },
         {
           name: "Sarah",
-          message:
-            "I would like to sell Ford fiesta in good condition from 2015."
+          message: "I'd like to sell Ford fiesta in good condition from 2015."
         },
         {
           name: "Natalia",
